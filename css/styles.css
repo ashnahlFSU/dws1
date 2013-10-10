@@ -1,0 +1,30 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*all colors from http://colorschemedesigner.com/# 
+scheme ID: 3t31Tw0w0w0w0*/
+
+body {
+	background-color: #64AAD0;
+	background-color: hsl(100%,50%)
+	color: rgb(3,69,105);}
+	
+h1 {
+	background-color: #034569;
+	color: White;}
+	
+h2, h3 {
+	background-color: #235B79;
+	color: White;}
+	
+ul, ol {
+	background-color: #FFBA00;
+	color: White;
+	opacity: 0.70;}
+	
+li {
+	color: #034569;}
+	
+	
+
+
