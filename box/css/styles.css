@@ -1,0 +1,79 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*all colors from http://colorschemedesigner.com/# 
+scheme ID: 3t31Tw0w0w0w0*/
+
+#wrapper {
+	width: 800px;
+	margin: 3px auto;
+	box-shadow: 5px 9px 9px 9px #666666;
+	border-radius: 5px;}
+
+body {
+	background-color: #64AAD0;
+	background-color: hsl(100%,50%)
+	color: rgb(3,69,105);
+	text-align: left;
+	font: 14px Arial, Helvetica, sans-serif;}
+	
+h1 {
+	background-color: #034569;
+	color: White;
+	font-family: 'Lobster', cursive;
+	text-shadow: 1px 2px #990033;}
+	
+#header {
+	width: 335px;
+	margin: 10px auto;}
+	
+h2, h3 {
+	background-color: #235B79;
+	color: White;
+	font-family: 'Lobster', cursive;
+	text-shadow: 1px 1px #990000;
+	padding: 3px;}
+	
+p {
+	margin: 25px auto 7px auto;}
+	
+ul, ol {
+	background-color: #FFBA00;
+	opacity: 0.70;
+	border: medium dotted black;}
+	
+ul {
+	list-style-type: circle;}
+	
+ol {
+	list-style-type: lower-roman;}
+	
+li {
+	color: #034569;
+	line-height: 1.4em;}
+	
+.listheading {
+	font: oblique bold 13px Arial, Helvetica, sans-serif;}
+	
+.toc {
+	display: inline;
+	margin-left: 20px;
+	height: 15px;}
+	
+#source {
+	font-size: 11px;
+	text-transform: uppercase;
+	word-spacing: 0.5em;
+	text-align: center;} 
+
+a:link {
+	color: #00F;}
+
+a:visited {
+	color: #000;}
+	
+a:hover {
+	color: #903;}
+	
+a:active {
+	color: #006;}
