@@ -1,0 +1,133 @@
+/* CSS Document */
+
+/*all colors from http://colorschemedesigner.com/# 
+scheme ID: 3t31Tw0w0w0w0*/
+
+#wrapper {
+	background:
+		url("../images/sand-blossom.gif") repeat-x center top;
+	width: 100%;
+	margin: 0 auto;
+	box-shadow: 5px 9px 9px 9px #666666;
+	border-radius: 5px;}
+
+body {
+	background-color: #64AAD0;
+	background-color: hsl(100%,50%);
+	color: rgb(3,69,105);
+	text-align: left;
+	font: 1.000em Arial, Helvetica, sans-serif;}
+	
+.icon {
+	float: left;
+	width: 12%;
+	height: 12%;}
+	
+h1 {
+	background-color: #034569;
+	color: White;
+	font-family: 'Lobster', cursive;
+	text-shadow: 0.071em 0.143em #990033;
+	text-align: center;}
+	
+header {
+	width: 40%;
+	margin: 1.25% auto;
+	display: block;}
+	
+nav {
+	display: block;}
+	
+section {
+	display: block;}
+	
+aside {
+	display: block;}
+	
+h2, h3 {
+	background-color: #235B79;
+	color: White;
+	font-family: 'Lobster', cursive;
+	text-shadow: 0.071em 0.071em #990000;
+	padding: .25%;}
+	
+p {
+	margin: 1% auto 1% auto;}
+	
+ul, ol {
+	background: 
+		#FFBA00 linear-gradient(to bottom, #fefcea 0%,#f1da36 100%);
+	opacity: 0.70;
+	border: medium dotted black;}
+	
+ul {
+	list-style-type: circle;}
+	
+ol {
+	list-style-type: lower-roman;}
+	
+li {
+	color: #034569;
+	line-height: 1.4em;}
+	
+.listheading {
+	font: oblique bold 13px Arial, Helvetica, sans-serif;}
+	
+.toc {
+	display: inline;
+	margin-left: 2.5%;
+	height: 15px;}
+	
+#column1 {
+	float: left;
+	width: 60%;
+	padding: .375%;
+	margin: .375%;}
+	
+#column2 {
+	float: left;
+	width: 35%;
+	padding: .375%;
+	margin: .375%;}
+	
+table {
+	width: 100%;
+	padding: 1%;
+	font-size: 1.000em;
+	border: dashed;
+	border-spacing: inherit;
+	text-align: center;
+	background-color:inherit;
+	display: block;}
+	
+th {
+	text-transform: uppercase;}
+
+tr:hover {
+	background-color: #FFC;}
+	
+td { 
+	margin: 3px;}
+	
+footer {
+	margin-top: .25%;
+	clear: both;
+	display: block;}
+	
+#source {
+	font-size: 0.786em;
+	text-transform: uppercase;
+	word-spacing: 0.5em;
+	text-align: center;} 
+
+a:link {
+	color: #00F;}
+
+a:visited {
+	color: #000;}
+	
+a:hover {
+	color: #903;}
+	
+a:active {
+	color: #006;}
